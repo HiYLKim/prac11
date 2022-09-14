@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href = 'a.jsp'>link to Mr. Kim</a>
-	<a href = 'b.jsp'>link to Mr. Han</a>
-	<a href = 'c.jsp'>link to Mr. Kwon</a>	
+	<a href = 'a.jsp'>훈이 만든 파일로 향하는 파일입니다.</a>
+	<a href = 'b.jsp'>한이 만든 파일로 향하는 파일입니다.</a>
+	<a href = 'c.jsp'>권이 만든 파일로 향하는 파일입니다.</a>	
 </body>
 </html>
